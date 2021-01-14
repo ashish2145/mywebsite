@@ -1,0 +1,2 @@
+# mywebsite
+lawyer static website
